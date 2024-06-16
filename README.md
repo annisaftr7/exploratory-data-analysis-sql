@@ -16,3 +16,5 @@ This analysis aims to answer 25 questions, such as:
 6. Etc.
 
 This project illustrates how SQL can be utilized to clean and analyze large datasets for valuable insights. By thoroughly cleaning the Netflix dataset, the accuracy of the analysis was ensured. The exploratory data analysis (EDA) provided valuable information about content distribution, popular genres, prominent directors and actors, content trends over the years, and rating distributions.
+
+[Dataset source: https://www.kaggle.com/datasets/shivamb/netflix-shows]
